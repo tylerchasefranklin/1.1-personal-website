@@ -1,0 +1,29 @@
+html {
+  background-image: url(http://www.drodd.com/images14/carolina-panthers34.jpg);
+  background-size: cover;
+  background-repeat: round;
+}
+
+body {
+  color: white;
+}
+
+.link {
+  color: skyblue;
+  font-size: 20px;
+}
+
+div {
+  color: white;
+  border: 2px solid blue;
+  display: inline-grid;
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+  font-family: fantasy;
+  margin-top: 75px;
+}
+
+header {
+  color: skyblue;
+}
