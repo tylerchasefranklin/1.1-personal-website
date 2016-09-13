@@ -28,3 +28,21 @@ div {
 header {
   color: skyblue;
 }
+
+.header-link {
+  font-size: 20px;
+  float:right;
+  color: skyblue;
+}
+
+.blog-link {
+  border: 1px solid blue;
+}
+
+.contact-link {
+  border: 1px solid blue;
+}
+
+.bio-link {
+  border: 1px solid blue;
+}
